@@ -1,4 +1,4 @@
-# Fork Bomb Prank (Educational Purpose Only)
+# Fork Bomb (Educational Purpose Only)
 
 ## ⚠️ Warning
 This script is intended **only for educational purposes** and **harmless pranks**. Do **not** use it for malicious activities, as it can overload a system if misused. Run it in a **safe environment** like a virtual machine.
@@ -41,5 +41,5 @@ If accidentally executed:
 ---
 
 ## ❗ Disclaimer
-This script is for **educational purposes only**. The author is **not responsible** for any misuse or system damage. Use it **responsibly** and **with permission**. Prank safely! 😃
+This script is for **educational purposes only**. The author is **not responsible** for any misuse or system damage. Use it **responsibly** and **with permission**. Prank safely! 
 
