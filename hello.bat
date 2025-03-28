@@ -1,5 +1,3 @@
-::[Bat To Exe Converter]
-::
 ::YAwzoRdxOk+EWAnk
 ::fBw5plQjdG8=
 ::YAwzuBVtJxjWCl3EqQJgSA==
@@ -28,8 +26,6 @@
 ::dhA7pRFwIByZRRnk
 ::Zh4grVQjdCyDJGyX8VAjFBBHRA2UAES0A5EO4f7+086CsUYJW/IDUIrX1rvAJfgWig==
 ::YB416Ek+ZG8=
-::
-::
 ::978f952a14a936cc963da21a135fa983
 @echo off
 title HELLO
